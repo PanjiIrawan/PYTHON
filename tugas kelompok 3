@@ -69,3 +69,37 @@ pajak = jumlah_bayar * 0.1
 total_bayar = jumlah_bayar + pajak
 print("                     pajak 10%   Rp:",pajak)
 print("                     total bayar Rp:",total_bayar)
+
+#OUTPUT
+        PALUGADA
+
+Kode    Jenis Sambal     Harga
+P       pedas           Rp.35000
+M       manis           Rp.35000
+B       balado          Rp.35000
+A       asam            Rp.40000
+
+banyak jenis :4
+jenis ke - 1
+kode sambal [P/M/B/A]:P
+banyak sambal :5
+jenis ke - 2
+kode sambal [P/M/B/A]:M
+banyak sambal :5
+jenis ke - 3
+kode sambal [P/M/B/A]:B
+banyak sambal :5
+jenis ke - 4
+kode sambal [P/M/B/A]:A
+banyak sambal :5
+=======================================      
+             PALUGADA                        
+=======================================      
+no       jenis   harga   banyak  jumlah      
+         sambal  satuan  ambil   harga       
+=======================================      
+1   pedas  35000  5  175000
+2   manis  35000  5  175000
+3   balado  35000  5  175000
+4   asam  40000  5  200000
+                     pajak 10%   Rp: 72500.0 
